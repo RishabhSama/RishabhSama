@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RishabhSama
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on nothing in particular
+- 💞️ I’m looking to collaborate on making a project using Full Stack and React.js in particular
 - 📫 How to reach me rishabhsharma7802@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: The earth is vast yet we make it so small
